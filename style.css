@@ -165,15 +165,23 @@ font-size: 14px;
 .main-sub-foot-right-nav{
     display: flex;
 }
+.dropdown-table-main-div{
+    height: auto;
+    width: auto;
+}
 
 #dropodown-another-food-menu{
     grid: 10px;
     width: auto;
 
 }
-.table{
-    display: table-cell;
+.table-dropdown-row{
+    gap: 10rem;
+    display: inline;
 
+}
+.table-dropdown-row li span{
+    display:inline-block;
 }
 .table td{
     background-color: white;
