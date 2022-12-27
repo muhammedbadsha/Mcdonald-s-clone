@@ -214,5 +214,92 @@ font-size: 14px;
 }
 
 
+/* footer works  */
 
 
+.inner-footer-div{
+    margin: 6rem 0 0 0;
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    margin-bottom: 1vh;
+}
+
+.sub-first-coloumn-footer{
+    margin: 0 0 0 7rem;
+}
+.sub-second-column-footer{
+    margin: 0 0 0 7rem;
+}
+.sub-therid-column-footer{
+    margin: 0 0 0 7rem;
+    width: 2in;
+}
+.sub-forth-column-footer{
+    margin: 0 0 0 7rem;
+}
+
+.head-of-the-list{
+    margin-bottom: 2vh;
+}
+.icones-adv-foot{
+    display: flex;
+    justify-content: space-between;
+   
+    box-shadow: 1px 11px 8px -15px #7e7e7a;
+}
+.left-foot-icon{
+    display: flex;
+    gap: 1rem;
+    margin: 3rem 0 3rem 7rem;
+}
+.right-foor-icon{
+    display: flex;
+    margin: 3rem 8rem 3rem 0;
+}
+
+.under-foot{
+    height: 7rem;
+    margin-top: 3rem;
+}
+
+.first-footline{
+    margin: 0 6rem 0 7rem;
+    display: flex;
+    justify-content: space-between;
+}
+.left-footline{
+    gap: 2rem;
+    display: flex;
+
+}
+
+.right-footline{
+    display: flex;
+    gap: 3rem;
+}
+.right-footline img{
+    width: 2rem;
+    height: 2rem;
+}
+.right-footline li{
+    width: 19rem;
+}
+
+.second-footline{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 8rem 0 7rem;
+    gap: 2rem;
+}
+.second-left-li-tags{
+    display: flex;
+    gap: 4rem;
+    margin-top: 2rem;
+    
+}
+.recerved li{
+    margin-top: 0;
+}
