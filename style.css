@@ -168,6 +168,7 @@ font-size: 14px;
 .dropdown-table-main-div{
     height: auto;
     width: auto;
+    background-color: #FFFFFF;
 }
 
 #dropodown-another-food-menu{
@@ -178,6 +179,7 @@ font-size: 14px;
 .table-dropdown-row{
     gap: 10rem;
     display: inline;
+    background-color: #FFFFFF;
 
 }
 .table-dropdown-row li span{
@@ -185,6 +187,30 @@ font-size: 14px;
 }
 .table td{
     background-color: white;
+}
+.viewfull-button{
+    border-color: rgb(100, 100, 99);
+}
+.image-1-display img{
+    width: 46rem;
+    height: 21rem;
+    
+}
+.sub-para{
+    font-size: 10px;
+    margin: 1rem 0 1rem 0;
+}
+.wraped-div-on-discription{
+    margin: 0px 0px 0px 36px; 
+}
+.para{
+    margin:1rem 0 0 0;
+}
+.container-sub-div-1{
+    margin-top: 6rem;
+}
+.container{
+    margin-left: 5rem;
 }
 
 
